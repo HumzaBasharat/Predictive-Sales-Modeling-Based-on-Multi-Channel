@@ -1,1 +1,1 @@
-# Predictive-Sales-Modeling-Based-on-Multi-Channel
+# Predictive Sales Modeling Based on Multi Channel
